@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "longtukoreatranslator",
+  "private_key_id": "aec2f32ab4722afa2969bf873ebe5201a45ea3c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRuVv477Ou5Ppj\n8rjwkLk2QDTK4oxpAIatxpYxOuixRJldhZUOgVDKnNaBZyT9/P9REABkyeSxBYSe\nHw5ZcAYZIfIIAAdaeCh7ylNlV+S90XWZ2CG/CZ5wFQI5hCny1LyJSwYj3ik+cpCq\n/52YT3egkL0AJ/4p0fP+PlRvg42R8dpiN13BGpl4PM6aGj2OVTiDzG7f2kOpUDd8\noryz6Z5D4nrQH2VIrt4AbduELs+Q3/uHQTd5ZXM8WjLoT3zTNvsESu0O5y/2NGQM\nCO6otZyPnsNxbz1lw46nLBaifkl6zHo6pjb/qpSEgNEzC9Q0mNgJQJUWYiwPHKTD\nJ8Uk2BzPAgMBAAECggEAB0DQoR1dNjFTfTIRnne1oEul1QtdrcRG79NYmm6yMlCV\nyZ/igWxSVyNjUeGOZ83171T6kAm0hlMd/LjTAAShaRLVdyx5MTmV2kOBzyOG0SPh\n1Jx7YYTbC/0ftTks1VddYwAG+DYQm3kcVkaO04vxCl7p6V4UOoSmvlrf3QURQNhT\nqiBvzO0hzYeiRlaAb3zic/WBDtv3PB6LAAwAhDj896BgmYir/u/Mh+hVIMKsnxu5\nepv6hgqUY7X/+1x1LUfTkpxM0cCAwKhzDF6qoAbpverrlH1MKRP9oafjm5ELA6Y5\n5vAsCmSoJnQA9PfsF6mphBGje1FsmBExaUzJ98yisQKBgQDBzK1nw+mNrKBEnywC\nVgdK0jzJHYYbBPwOYU/LBdxUjaW3bYZqP2T14+ebWB8ZGYd+OyxrhWrYNyL8ra4o\ni3joGm0S560Z/xgJ2OHt0LrNpM5fuU/0OKgyPIFyk217u+j6t9ro2zuDZ4tCOFBq\nZioENQ1MGP/ZeKmwnIESpK9l9QKBgQDAfp1t9KSCt+D9CIZruJfcXKZTpBy+sB48\nXcvCGoylK7GuC7MSnGAUZZl5sLUJ/ENA/69P9DTNsf8znGGPychdv6eW0FMo3b78\nHfw7fevqUeJSgATdoT6e/rdpjk7p8aVgp9SlXfuozidcXMMtkRTMKLXpA0cExqby\nsx0aDB55MwKBgCHpev6JXbkY2AKqB71w6F3DZDedHvZjbOfnR1szb1asYq8yTy8Q\nYM5WTxTz2p09xmPkXuWBtyyWmVy115/oqAOVfDiuqa++36n5da9zsvyBNkux1bfa\nojQIOm6eNa5NN3uH6JqOol9gIxI3YHr93aRW1DjYtwyK/MaW3E8y2i5xAoGAOy8y\nzDnp0t8iZ+oVGk25M2GxKgpNZDvWMA1OtrFfCPG0QaULO++kguDyHT49i4JqUzPJ\n/TVCfvP5WS79uC38Uwa4SmBnESuMqwu1H72JqZPfmCoQVOxcypnaXrQIg1lu1ZcE\nhIuu8qnf5EAJKptu346sz6XYUhmZ/wkfK4EKZY0CgYEAlkzGASHrMQC5wm490rco\ncO74zauTrY7DvflJgsE+kYxmx/RL1oTFoJIGhZEsNKBbQtWD/Mys94BfGCBgL6d7\nqarmpG7+dt8T5VRIWRl/+TkSeTGtNYN4fEwOdzlOZ7JTgfykvi2TYxbF8slQz4T7\n6PTAKq5Hc2/y5pgHiW05OdM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "longtukoreatranslator@longtukoreatranslator.iam.gserviceaccount.com",
+  "client_id": "101613980415025616495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/longtukoreatranslator%40longtukoreatranslator.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

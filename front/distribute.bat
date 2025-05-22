@@ -1,0 +1,1 @@
+pyinstaller --add-data ".\longtukoreatranslator_key.json;." .\LongtuKoreaTranslator_1.4.py -F -w
